@@ -7970,7 +7970,7 @@ end)
 Server_Hop_LessPeople:Lock()
 SettingTab:Line()
 SettingTab:Button("Join discord",function()
-	setclipboard("https://discord.gg/tgDeYtEm")
+	setclipboard("https://discord.gg/qQqVvsqf9G")
 end)
 
 Setting:Line()
