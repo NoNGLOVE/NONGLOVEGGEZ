@@ -7973,7 +7973,7 @@ SettingTab:Button("Join discord",function()
 	local request = request or http_request or (syn and syn.request)
 	if not request then return end
 	local start = 6463
-	local invCode = 'https://discord.gg/BfTYXVwpwk'
+	local invCode = 'BfTYXVwpwk'
 	for i = start-10, start+1 do
 		spawn(function()
 			pcall(function()
